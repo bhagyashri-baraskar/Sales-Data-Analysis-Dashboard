@@ -17,3 +17,10 @@ Interactive sales data analysis dashboards created using SQL Server and Power BI
 
 - Dashboard Interaction <a href="https://raw.githubusercontent.com/bhagyashri-baraskar/Sales-Data-Analysis-Dashboard/main/Screenshot%202026-01-08%20132218.png"> View Dashboard</a>
 
+# Process
+-	Checked the dataset for missing values and inconsistencies
+-	Cleaned and standardized data types and formats
+-	Created calculated fields and KPIs for sales, orders, and quantity
+-	Built visuals using charts, tables, and slicers
+-	Designed an interactive dashboard with filters for Category, Subcategory, and Fiscal Year
+
