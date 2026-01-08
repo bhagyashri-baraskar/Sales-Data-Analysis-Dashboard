@@ -7,12 +7,12 @@ Interactive sales data analysis dashboards created using SQL Server and Power BI
 
 ## Key Business Questions (KPIs)
 
-•	What is the total sales, total orders, and quantity sold?
-•	How do sales and order quantity compare across fiscal years?
-•	Which countries and regions contribute the most to sales?
-•	What is the sales trend by category and fiscal year?
-•	Which fiscal year recorded the highest order quantity?
-•	Which product categories are top-performing?
-•	How is sales distributed across cities and states?
+-	What is the total sales, total orders, and quantity sold?
+- How do sales and order quantity compare across fiscal years?
+- Which countries and regions contribute the most to sales?
+-	What is the sales trend by category and fiscal year?
+-	Which fiscal year recorded the highest order quantity?
+-	Which product categories are top-performing?
+-	How is sales distributed across cities and states?
 
 
