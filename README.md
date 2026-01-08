@@ -1,4 +1,2 @@
-#Sales Data Analysis (Interactive Dashboard using SQL Server & Power BI)
-Project Objective
-The objective of this project is to analyze historical sales data to understand sales performance, customer demand, regional contribution, and category-wise trends.
-This dashboard helps stakeholders identify key growth areas, improve decision-making, and optimize sales strategy.
+# Sales-Data-Analysis-Dashboards
+Interactive sales data analysis dashboards created using SQL Server and Power BI to analyze sales trends, top-performing categories, and regional performance. Includes dynamic charts, KPI cards, and slicers for interactive reporting. Helps businesses make data-driven decisions and improve sales strategy.
