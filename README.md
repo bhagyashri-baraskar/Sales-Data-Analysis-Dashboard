@@ -15,4 +15,5 @@ Interactive sales data analysis dashboards created using SQL Server and Power BI
 -	Which product categories are top-performing?
 -	How is sales distributed across cities and states?
 
+- Dashboard Interaction <a href="https://raw.githubusercontent.com/bhagyashri-baraskar/Sales-Data-Analysis-Dashboard/main/Screenshot%202026-01-08%20132218.png"> View Dashboard</a>
 
