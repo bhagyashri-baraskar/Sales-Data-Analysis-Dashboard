@@ -6,6 +6,7 @@ Interactive sales data analysis dashboards created using SQL Server and Power BI
 - <a href="https://github.com/bhagyashri-baraskar/Sales-Data-Analysis-Dashboard/raw/main/Sales_dataset.xlsx">Dataset</a>
 
 ## Key Business Questions (KPIs)
+
 •	What is the total sales, total orders, and quantity sold?
 •	How do sales and order quantity compare across fiscal years?
 •	Which countries and regions contribute the most to sales?
