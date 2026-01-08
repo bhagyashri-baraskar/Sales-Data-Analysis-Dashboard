@@ -25,4 +25,5 @@ Interactive sales data analysis dashboards created using SQL Server and Power BI
 -	Designed an interactive dashboard with filters for Category, Subcategory, and Fiscal Year
 
 # Dashboard
-"C:\Users\bhagyashri baraskar\Downloads\Sales -Data -Analysis -Dashboards\Image.png"
+![Dashboard Screenshot](https://raw.githubusercontent.com/bhagyashri-baraskar/Sales-Data-Analysis-Dashboard/main/Image.png)
+
